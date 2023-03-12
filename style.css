@@ -1,0 +1,30 @@
+body {
+  background-color: #fcf4dd;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
+
+p {
+  text-align: center;
+  margin: 16px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+.links a {
+  margin: 10px;
+  text-align: center;
+  color: chocolate;
+}
+.links {
+  text-align: center;
+}
